@@ -1,0 +1,204 @@
+body {
+  width: 100%;
+  background-color: #fcfcfc;
+  font-family: "Noto Sans TC", sans-serif;
+  margin: 0px;
+}
+.team-idea {
+  position: relative;
+  background-color: #ffffff;
+  color: #424242;
+  display: inline-block;
+  width: 100%;
+  height: 395px;
+  text-align: center;
+}
+.team-idea h2 {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0px;
+}
+.team-idea h3 {
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0px;
+  line-height: 30px;
+}
+.title {
+  position: absolute;
+  top: 150px;
+  /*left: 864px;*/
+  left: 50%;
+  margin-left: -96px;
+  width: 192px;
+  height: 33px;
+}
+.text {
+  size: 20px;
+  position: absolute;
+  top: 213px;
+  /*left: 423px;*/
+  left: 50%;
+  margin-left: -537px;
+  width: 1074px;
+  height: 60px;
+}
+.line img {
+  margin-left: 15%;
+  margin-top: 350px;
+  height: 2400px;
+  position: absolute;
+  z-index: 99;
+}
+.team-member {
+  background-color: #fafafa;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: #3a5676;
+  width: 100%;
+  height: 3000px;
+  text-align: left;
+  text-decoration: none;
+}
+.team-member h1 {
+  color: #424242;
+  font-size: 36px;
+  font-weight: 700;
+  margin: 0px;
+}
+.team-member h2 {
+  font-size: 32px;
+  font-weight: 700;
+  margin: 0px;
+}
+.team-member h3 {
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0px;
+}
+.team-member h4 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #96a1bc;
+  margin: 0px;
+  line-height: 25px;
+}
+.title02 {
+  position: absolute;
+  width: 144px;
+  height: 49px;
+  /*left: 888px;*/
+  left: 50%;
+  margin-left: -72px;
+  top: 91px;
+}
+.羅郁茹-text {
+  width: 225px;
+  height: 105px;
+  padding: 14px 0px 0px;
+}
+.劉家妤-text {
+  width: 225px;
+  height: 105px;
+  padding: 14px 0px 0px;
+}
+.陳彥余-text {
+  width: 225px;
+  height: 105px;
+  padding: 14px 0px 0px;
+}
+.麥巧枚-text {
+  width: 225px;
+  height: 105px;
+  padding: 14px 0px 0px;
+}
+.team-member ul {
+  margin: 0px;
+  padding: 0px 0px 0px 0px;
+}
+.team-member ul {
+  width: 100%;
+  height: 600px;
+  position: relative;
+  display: inline-block;
+}
+.team-member ul li {
+  position: absolute;
+  display: inline-block;
+  top: 349px;
+}
+.member-intro-1 {
+  /*right: 587px;*/
+  left: 50%;
+  margin-left: -350px;
+}
+.member-intro-img-1 {
+  /*left: 649px;*/
+  margin-left: 100px;
+  left: 50%;
+}
+.member-intro-2 ul {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  height: 169px;
+}
+.member-intro-2 ul li {
+  display: inline-block;
+  position: absolute;
+  top: 684px;
+}
+.member-intro-2 {
+  /*left: 649px;*/
+  left: 50%;
+  margin-left: 150px;
+}
+.member-intro-img-2 {
+  /*right: 591px;*/
+  margin-left: -380px;
+  left: 50%;
+}
+.member-intro-3 ul {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  height: 225px;
+}
+.member-intro-3 ul li {
+  display: inline-block;
+  position: absolute;
+  top: 1029px;
+}
+.member-intro-3 {
+  /*right: 591px;*/
+  left: 50%;
+  margin-left: -350px;
+}
+.member-intro-img-3 {
+  /*left: 649px;
+  position: fixed;*/
+  margin-left: 100px;
+  left: 50%;
+}
+.components ul {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  height: 1199px;
+}
+.member-intro-4 ul li {
+  display: inline-block;
+  position: absolute;
+  top: 1366px;
+}
+.member-intro-4 {
+  /*left: 649px;*/
+  left: 50%;
+  margin-left: 150px;
+}
+.member-intro-img-4 {
+  /*right: 591px;*/
+  margin-left: -380px;
+  left: 50%;
+}
